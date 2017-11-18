@@ -1,0 +1,29 @@
+{
+  "name": "full-stack-profile",
+  "version": "1.0.0",
+  "description": "Who I am, while practicing EJS and css.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdannyb/Full-stack-profile.git"
+  },
+  "keywords": [
+    "mrdannyb",
+    "profile"
+  ],
+  "author": "Mr.Dannyb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdannyb/Full-stack-profile/issues"
+  },
+  "homepage": "https://github.com/mrdannyb/Full-stack-profile#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
